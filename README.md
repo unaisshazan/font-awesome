@@ -41,6 +41,11 @@ From time-to-time we'll have special upgrading instructions from one version to 
 
 Check out the [UPGRADING.md](./UPGRADING.md) guide when you upgrade your dependencies.
 
+## Code of conduct
+
+We will behave ourselves if you behave yourselves. For more details see our
+[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+
 ## Contributing
 
 Please read through our [contributing guidelines](./CONTRIBUTING.md).  Included
