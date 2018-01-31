@@ -1,10 +1,10 @@
 ### What can it be used for?
 
-[describe how this could be used / the use case for this icon]
+<!--- describe how this could be used / the use case for this icon -->
 
 ### Example image (optional)
 
-[insert the example image here if necessary]
+<!--- insert the example image here if necessary -->
 
 ### Icon request checklist
 
