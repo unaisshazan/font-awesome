@@ -88,3 +88,8 @@ files normally.
 We've kept attribution comments terse, so we ask that you do not actively work
 to remove them from files, especially code. They're a great way for folks to
 learn about Font Awesome.
+
+## Team
+[<img src="https://img.fortawesome.com/349cfdf6/dave-pixelated-800.png" alt="" height="100">](https://github.com/davegandy) | [<img src="https://img.fortawesome.com/349cfdf6/travis-pixelated-800.png" alt="" height="100">](https://github.com/supercodepoet) | [<img src="https://img.fortawesome.com/349cfdf6/rob-pixelated-800.png" alt="" height="100">](https://github.com/robmadole) | [<img src="https://img.fortawesome.com/349cfdf6/brian-pixelated-800.png" alt="" height="100">](https://github.com/talbs)
+---|---|---|---
+[Dave Gandy](https://github.com/davegandy) | [Travis Chase](https://github.com/supercodepoet) | [Rob Madole](https://github.com/robmadole) | [Brian Talbot](https://github.com/talbs)
